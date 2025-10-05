@@ -4,6 +4,32 @@
 **Assignment**: Principal Component Analysis (PCA) Implementation  
 **Dataset**: African Import/Export Trade Data  
 
+Dataset Justification - Personal Connection
+Why I Chose African Import/Export Trade Data
+Personal Background: As a Zambian student, I have a deep personal connection to African economic development and trade relationships. Growing up in Zambia, I've witnessed firsthand how international trade impacts our economy, from copper exports that drive our GDP to agricultural products that support rural communities.
+
+Academic Relevance: This dataset represents more than just numbers - it tells the story of African economic integration, trade partnerships, and development patterns. As someone from Zambia, I understand the significance of trade data in:
+
+Economic Policy: How trade flows influence government decisions
+Regional Development: SADC trade relationships and their impact
+Resource Management: Understanding export patterns of natural resources
+Food Security: Import patterns for essential goods
+Why This Data Matters to Me:
+
+Cultural Significance: This data includes trade from my home country and region
+Economic Understanding: Helps me analyze patterns affecting my community
+Professional Relevance: As a future data scientist, understanding African economic data is crucial
+Social Impact: Trade data reveals development opportunities and challenges
+Technical Suitability:
+
+34 features (well above 10+ requirement)
+Mix of categorical and numerical data perfect for PCA
+Real-world complexity requiring advanced preprocessing
+Meaningful dimensionality reduction applications
+This dataset choice reflects both academic rigor and personal passion for African development.
+
+
+
 ## 📋 Assignment Overview
 
 This assignment demonstrates the implementation of Principal Component Analysis (PCA) from scratch using advanced linear algebra concepts. I worked with real African trade data to show how PCA can reduce dimensionality while preserving important information in the dataset.
