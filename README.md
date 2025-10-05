@@ -17,6 +17,18 @@ Principal Component Analysis is a statistical technique that:
 
 ## 📊 Dataset: African Import/Export Trade Data
 
+### 🇿🇲 Personal Connection - Why I Chose This Data
+**As a Zambian student**, I have a deep personal connection to this dataset. Growing up in Zambia, I have witnessed firsthand how international trade impacts our economy - from copper exports that drive our GDP to agricultural products that support rural communities. This dataset is not just academic exercise for me; it represents the economic reality of my home country and region.
+
+**Why this matters to me personally:**
+- 🏠 **Home Country Impact**: This data includes trade from Zambia and neighboring countries
+- 📈 **Economic Understanding**: Helps me analyze patterns affecting my community
+- 🎓 **Academic Passion**: Combines my technical skills with knowledge of African economics
+- 🌍 **Regional Development**: Understanding SADC trade relationships and their impact
+- 💼 **Career Relevance**: As a future data scientist, African economic data analysis is crucial
+
+This dataset choice reflects both academic rigor and personal passion for African development.
+
 ### About the Data
 I used authentic African Import/Export Trade Data with the following characteristics:
 - **Source**: Real trade transactions from African countries
